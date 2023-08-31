@@ -10,7 +10,6 @@ module.exports = {
     path: path.resolve(__dirname, 'dist')
   },
   devServer: {
-    devServer: {
       static: {
         directory: path.join(__dirname, "dist"),
       },
