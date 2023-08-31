@@ -6,11 +6,11 @@
 
 ## Technologies Used
 
-* _Javascript_
+* _JavaScript_
 * _HTML_
 * _CSS_
 * _Bootstrap_
-* _Node v18.17.1_
+* _Node.js v18.17.1_
 * _NPM v9.6.7_
 
 ## Description
@@ -19,7 +19,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _$ git clone_
+* _$ git clone (link)_
 * _$ cd FileName_
 * _$ npm install_
 * _$ npm run build_
@@ -27,7 +27,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _$ npm run lint_
 * _$ npm run start (see note)_
 
-_{If you would like to start a server if UI is added, $ npm run start, will open a server in your browser.}_
+_{If you would like to start a server when UI is added, $ npm run start, will open a server in your browser.}_
 
 ## Known Bugs
 
