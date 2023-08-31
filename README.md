@@ -6,10 +6,12 @@
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _Javascript_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _Node v18.17.1_
+* _NPM v9.6.7_
 
 ## Description
 
